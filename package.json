@@ -38,7 +38,7 @@
     "uglify-es": "github:mishoo/UglifyJS2#harmony"
   },
   "dependencies": {
-    "ajv": "^5.5.2",
+    "ajv": "^6.12.3",
     "npm": "^5.8.0"
   }
 }
